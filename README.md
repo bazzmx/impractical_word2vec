@@ -16,3 +16,8 @@ Esta implementación de word2vec entrena el modelo con la arquitectura skip-gram
 Se han anotado en español todos los pasos y el código
 Se han cambiado algunas funciones para que sean más pythonisticas
 Se ha añadido una función sencilla para guardar el modelo, recuerda que esta implementación no es eficiente, su propósito es ayudar a comprender el funcionamiento de word2vec
+
+## Requisitos
+
+numpy
+
